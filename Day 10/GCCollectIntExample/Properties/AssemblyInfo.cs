@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("StudentOopsTask")]
+[assembly: AssemblyTitle("GCCollectIntExample")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("StudentOopsTask")]
+[assembly: AssemblyProduct("GCCollectIntExample")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d029002c-783b-4c01-9d5c-47b5c66b16e7")]
+[assembly: Guid("cfd52ee1-6129-49f7-9abd-2577bd1bb74d")]
 
 // Version information for an assembly consists of the following four values:
 //

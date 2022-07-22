@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D029002C-783B-4C01-9D5C-47B5C66B16E7}</ProjectGuid>
+    <ProjectGuid>{CFD52EE1-6129-49F7-9ABD-2577BD1BB74D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>StudentOopsTask</RootNamespace>
-    <AssemblyName>StudentOopsTask</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>GCCollectIntExample</RootNamespace>
+    <AssemblyName>GCCollectIntExample</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
