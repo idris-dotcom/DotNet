@@ -14,22 +14,18 @@ namespace PracticeDelegate
         {
             Console.WriteLine(a + b);
         }
-        public static string  printName(string str)
+        public static string printName(string str)
         {
             return "my name is " + str;
         }
         static void Main(string[] args)
         {
             Program p1 = new Program();
-            addDelegate d1 = p1.add;          
+            addDelegate d1 = p1.add;
             d1.Invoke(3, 4);
             printDelegate p2 = Program.printName;
-            string name =p2.Invoke("idris");
+            string name = p2.Invoke("idris");
             Console.WriteLine(name);
-           
-            
         }
-
-        
     }
 }
