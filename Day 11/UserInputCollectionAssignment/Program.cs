@@ -52,7 +52,7 @@ namespace UserInputCollectionAssignment
             h1.Add("st_id:", p1.Id);
             h1.Add(" Name:", p1.Name);
             h1.Add("Total_Marks:", p1.Marks);
-            foreach(object key in h1)
+            foreach(object key in h1.Keys)
             {
                 Console.WriteLine(key + " " + h1[key]);
             }
